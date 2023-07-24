@@ -1,11 +1,7 @@
 Hi there 👋
 
 # 💫 About Me:
-💻 Junior Developer, recently graduated from Le Wagon's Web Dev Bootcamp<br>🌱 I’m currently learning: node.js & React<br>📄 Connect with me here: www.linkedin.com/in/phoebebenbow <br>📑 Final Project: https://www.wayfindr.co.uk/ <br> ⭐ Portfolio https://troopl.com/phoebebenbow
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phoebebenbow/) 
+💻 Junior Developer, recently graduated from Le Wagon's Web Dev Bootcamp<br>🌱 I’m currently learning: node.js & React<br>📄 Connect with me here: www.linkedin.com/in/phoebebenbow <br>📑 Final Project: https://www.wayfindr.co.uk/ <br> ⭐ Portfolio https://troopl.com/phoebebenbow 
 
 # 💻 Tech Stack:
 **Currently Learning:** &nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)<br>

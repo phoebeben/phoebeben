@@ -1,7 +1,7 @@
 Hi there 👋
 
 # 💫 About Me:
-💻 Junior Developer, recently graduated from Le Wagon's Web Dev Bootcamp<br>🌱 I’m currently learning: node.js & React<br>📄 Know about my experiences: www.linkedin.com/in/phoebebenbow <br>📑 Final Project: https://www.wayfindr.co.uk/
+💻 Junior Developer, recently graduated from Le Wagon's Web Dev Bootcamp<br>🌱 I’m currently learning: node.js & React<br>📄 Connect with me here: www.linkedin.com/in/phoebebenbow <br>📑 Final Project: https://www.wayfindr.co.uk/
 
 
 ## 🌐 Socials:
